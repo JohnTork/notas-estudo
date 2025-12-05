@@ -7,7 +7,7 @@
 // let - não fixo
 // var - erro
 // explicar do que se trata ao usuario
-
+  
 // pedir informação para o usuario usando o (prompt) explicar dentro do prompt do que se trata a solicitação
 
 const numero = Number(prompt('Digite um número, vou validar se é par ou impar'))
